@@ -58,6 +58,7 @@ Date       | Location                   | Bands
 10/06/2025 | Toyota Arena, Ontario CA   | Breaking Benjamin, Three Days Grace
 11/05/2025 | Palladium, LA              | Garbage
 12/13/2025 | The Echo, LA               | The Haunt
+&nbsp;     | &nbsp;                     | &nbsp;
 01/27/2026 | The Belasco, LA            | Nothing More, Catch Your Breath, Archers
 
 
