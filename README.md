@@ -2,10 +2,6 @@
 
 7/4/2025 D. W. Hawkins (dwh@caltech.edu)
 
-
-TODO: It started with Pamona: Memphis May Fire, From Ashes to New, Eva Under Fire.
-
-
 Date       | Location                   | Bands 
 -----------|----------------------------|------------
 06/15/2022 | House of Blues, Anaheim    | Nothing More
