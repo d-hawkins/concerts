@@ -60,7 +60,9 @@ Date       | Location                   | Bands
 10/01/2025 | Palladium, LA              | In This Moment, Dayseeker, The Funeral Portrait
 10/04/2025 | The Regent, LA             | Landmarks
 10/06/2025 | Toyota Arena, Ontario CA   | Breaking Benjamin, Three Days Grace
+10/23/2025 | Palladium, LA              | The Band CAMINO, Almost Monday
 11/05/2025 | Palladium, LA              | Garbage
+11/19/2025 | The Bellwether             | Grandson, Bob Vylan
 12/13/2025 | The Echo, LA               | The Haunt
 &nbsp;     | &nbsp;                     | &nbsp;
 01/27/2026 | The Belasco, LA            | Nothing More, Catch Your Breath, Archers
