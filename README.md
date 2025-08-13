@@ -63,6 +63,8 @@ Date       | Location                   | Bands
 10/23/2025 | Palladium, LA              | The Band CAMINO, Almost Monday
 11/05/2025 | Palladium, LA              | Garbage
 11/19/2025 | The Bellwether             | Grandson, Bob Vylan
+12/07/2025 | House of Blues, Anaheim    | Mammoth WVH, Miles Kennedy
+12/10/2025 | Riverside Auditorium       | Memphis May Fire, Rain City Drive, Nevertel, If Not For Me
 12/13/2025 | The Echo, LA               | The Haunt
 &nbsp;     | &nbsp;                     | &nbsp;
 01/27/2026 | The Belasco, LA            | Nothing More, Catch Your Breath, Archers
