@@ -58,26 +58,43 @@ Date       | Location                   | Bands
 08/23/2025 | Palladium, LA              | Yungblud
 09/27/2025 | The Observatory, Santa Ana | From Ashes to New
 10/01/2025 | Palladium, LA              | In This Moment, Dayseeker, The Funeral Portrait
-10/04/2025 | The Regent, LA             | Landmarks
+10/04/2025 | The Regent, LA             | Landmvrks, Novelists, Silly Goose
 10/06/2025 | Toyota Arena, Ontario CA   | Breaking Benjamin, Three Days Grace
 10/23/2025 | Palladium, LA              | The Band CAMINO, Almost Monday
+10/30/2025 | Echoplex, LA               | Mothica
 11/05/2025 | Palladium, LA              | Garbage
-11/19/2025 | The Bellwether             | Grandson, Bob Vylan
+11/15/2025 | The Vermont, LA            | Lovebites
+11/19/2025 | The Bellwether             | Grandson
 12/07/2025 | House of Blues, Anaheim    | Mammoth WVH, Miles Kennedy
 12/10/2025 | Riverside Auditorium       | Memphis May Fire, Rain City Drive, Nevertel, If Not For Me
 12/13/2025 | The Echo, LA               | The Haunt
 &nbsp;     | &nbsp;                     | &nbsp;
 01/27/2026 | The Belasco, LA            | Nothing More, Catch Your Breath, Archers
-
-
-
-
-
-
-
-
-
-
+01/31/2026 | Angels Anaheim Stadium     | Monster Jam
+02/19/2026 | The Roxy, LA               | Kami Kehoe
+03/07/2026 | The Fonda, LA              | Badflower
+03/22/2026 | El Rey, LA                 | I See Stars, Mothica, Diamonte, Until I Wake
+03/28/2026 | United Theater, LA         | Lucy Darling
+03/12/2026 | Pantages, LA               | Beetlejuice The Musical
+03/18/2026 | The Vermont, LA            | Rosecoloredworld
+03/26/2026 | Pantages, LA               | Spamalot
+04/18/2026 | The Vermont, LA            | The Haunt
+04/25/2026 | Riverside Auditorium       | Black Veil Brides, From Ashes to New, As December Falls, TX2
+05/02/2026 | Hollywood Bowl, LA         | Lewis Capaldi
+05/22/2026 | The Greek, LA              | Yungblud, The Warning
+06/20/2026 | The Belasco, LA            | Honey Revenge, South Arcade, Games We Play, Winona Fighter, Chase Petra
+06/25/2026 | The Palladium, LA          | Killswitch Engage, Machine Head, Iron Reagan, Havok
+07/20/2026 | The Bellwhether, LA        | Adam Lambert
+07/30/2026 | The Wiltern, LA            | The Pretty Reckless
+08/07/2026 | Palladium, LA              | Poppy, Landmvrks, Thousand Below
+09/11/2026 | Hollywood Bowl, LA         | OneRepublic
+09/20/2026 | Riverside Auditorium       | Sevendust and Theory of a Deadman
+10/03/2026 | Bellwhether, LA            | Paula Cole
+10/30/2026 | Pantages, LA               | The Who's Tommy
+11/18/2026 | Hollywood Bowl, LA         | Jonas Brothers
+11/21/2026 | Echoplex, LA               | Sueco and Jeris Johnson
+11/24/2026 | Hoise of Blues, Anaheim    | Daisy Grenade
+12/18/2026 | Palladium, LA              | Beartooth
 
 
 
