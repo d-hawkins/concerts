@@ -93,7 +93,7 @@ Date       | Location                   | Bands
 10/30/2026 | Pantages, LA               | The Who's Tommy
 11/18/2026 | Hollywood Bowl, LA         | Jonas Brothers
 11/21/2026 | Echoplex, LA               | Sueco and Jeris Johnson
-11/24/2026 | Hoise of Blues, Anaheim    | Daisy Grenade
+11/24/2026 | House of Blues, Anaheim    | Daisy Grenade
 12/18/2026 | Palladium, LA              | Beartooth
 
 
